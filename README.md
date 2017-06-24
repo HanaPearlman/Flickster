@@ -22,7 +22,7 @@ For each movie displayed, user can see the following details:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Demo](https://github.com/HanaPearlman/Flickster/blob/master/app/demo.mp4).
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
